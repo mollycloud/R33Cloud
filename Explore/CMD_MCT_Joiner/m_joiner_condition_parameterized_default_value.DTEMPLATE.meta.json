@@ -1,0 +1,94 @@
+{
+  "objectInfo" : {
+    "id" : "2H8Zor4RkcUeUji2sWhb6Y",
+    "name" : "m_joiner_condition_parameterized_default_value",
+    "type" : "DTEMPLATE",
+    "path" : "/Explore/CMD_MCT_Joiner",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000C1700000000002H"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "cmd_joiner_tc032  tc033",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ {
+        "id" : "7Q2JI2hMX8uiwlW9RgWgGk",
+        "name" : "SK_Con_MySQL_invr7saas6",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C0B00000000000U"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "MySQL ODQAUTF8 connection for CMD testcases automation",
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "i885XV7MLm2hvkLQ46t60N",
+        "name" : "SK_Con_FF_Auto",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C0B000000000007"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "Flat File connection for CMD Sorter Automation",
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "26PllweHfTdhR2AH53vXCq",
+        "name" : "SK_Con_Oracle_Auto",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C0B000000000003"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "Oracle ODQAUTF8 connection for CMD Sorter automation",
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      } ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
