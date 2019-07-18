@@ -1,0 +1,138 @@
+{
+  "objectInfo" : {
+    "id" : "f3Tz6vQCzIAcxAj6t14zSQ",
+    "name" : "m_jdbc_pipeline_lkp_single_condition_default_properties",
+    "type" : "MTT",
+    "path" : "/Explore/GA/Lookup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000C0Z00000000013M"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ {
+        "id" : "aNibpVaD3Ife5tqn4FzEqL",
+        "name" : "SK_Con_MySQL_JDBC",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C0B000000000010"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : null,
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "52rbKICzNgtjYH65RtrpID",
+        "name" : "SUSELX12001",
+        "type" : "AgentGroup",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C25000000000009"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : null,
+            "contentType" : "JSON",
+            "documentState" : "VALID"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "2DKfbSPThKqhROYmj8o3Eq",
+        "name" : "m_jdbc_pipeline_lkp_single_condition_default_properties",
+        "type" : "DTEMPLATE",
+        "path" : "/Explore/GA/Lookup",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C170000000000A6"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "",
+            "contentType" : "JSON",
+            "documentState" : "VALID"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "i885XV7MLm2hvkLQ46t60N",
+        "name" : "SK_Con_FF_Auto",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C0B000000000007"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "Flat File connection for CMD Sorter Automation",
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "9Y9IZ4yCEh8b1cPg9jeH2G",
+        "name" : "SK_Con_MySQL_Auto",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C0B000000000004"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "MySQL connection for CMD Sorter automation",
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      } ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
