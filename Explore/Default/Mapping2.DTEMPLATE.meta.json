@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "iOIWIO6ld6YkTCvu4eMl8u",
+    "name" : "Mapping2",
+    "type" : "DTEMPLATE",
+    "path" : "/Explore/Default",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100061700000000000K"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
