@@ -1,0 +1,50 @@
+{
+  "objectInfo" : {
+    "id" : "aWhRO0XVUFMj4MnRg7gmEA",
+    "name" : "Mapping_orasrc_oratgt",
+    "type" : "DTEMPLATE",
+    "path" : "/Explore/Default",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000617000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ {
+        "id" : "7TU528ZtA0jebnmyv0bP0v",
+        "name" : "ldmsrc",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "0100060B000000000002"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : null,
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      } ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
