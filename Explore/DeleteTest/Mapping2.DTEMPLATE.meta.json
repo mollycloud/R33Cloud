@@ -1,0 +1,50 @@
+{
+  "objectInfo" : {
+    "id" : "4gNErc5I8fAen41MNuBhuv",
+    "name" : "Mapping2",
+    "type" : "DTEMPLATE",
+    "path" : "/Explore/DeleteTest",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100061700000000000O"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      },
+      "objectRefs" : [ {
+        "id" : "3bed8p78hNwgdgZdjZvK8C",
+        "name" : "SK_Con_FF_Auto",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "0100060B000000000003"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "Flat File connection for CMD Sorter Automation",
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      } ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
