@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "3e2Ecy71QAGg8f4ABWKPEl",
-    "name" : "mplt_ci_expr1",
+    "name" : "mplt_ci_expr1_rename",
     "type" : "MAPPLET",
     "metadata" : {
       "modelVersion" : {
@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "ver2",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
