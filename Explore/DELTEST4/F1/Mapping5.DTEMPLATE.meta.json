@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "dTkhjIvgdwQfhnP6ypVS6R",
+    "id" : "fgOZNmo7lcIjCb7UaOHEcc",
     "name" : "Mapping5",
     "type" : "DTEMPLATE",
     "path" : "/Explore/DELTEST4/F1",
@@ -10,7 +10,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000C170000000000BB"
+        "repoHandle" : "01000C170000000000BC"
       },
       "contextAttributes" : [ {
         "name" : "id",
