@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "c9WoyRX1mQ8dgQ39xKwKSq",
+    "name" : "F1",
+    "type" : "Folder",
+    "path" : "/Explore/DELTEST4",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "json"
+  }
+}
