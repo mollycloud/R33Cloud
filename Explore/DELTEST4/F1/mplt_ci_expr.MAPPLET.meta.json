@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "aHtzkSOtjETiQqaLaV5T6X",
+    "name" : "mplt_ci_expr",
+    "type" : "MAPPLET",
+    "path" : "/Explore/DELTEST4/F1",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000C0L00000000003O"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
