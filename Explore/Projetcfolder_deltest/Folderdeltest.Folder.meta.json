@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "6qA1gTRBrSIjlV06yk7NEz",
+    "name" : "Folderdeltest",
+    "type" : "Folder",
+    "path" : "/Explore/Projetcfolder_deltest",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "json"
+  }
+}
