@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "iOahVIT1omwbBEIsCoE9GM",
+    "name" : "Mapping33",
+    "type" : "DTEMPLATE",
+    "path" : "/Explore/DELTEST4/F1",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000C170000000000BD"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
