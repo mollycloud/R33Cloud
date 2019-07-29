@@ -1,0 +1,94 @@
+{
+  "objectInfo" : {
+    "id" : "a8ilUmda41djkXR3KlvokJ",
+    "name" : "mct_m_joiner_few_ports_name_common",
+    "type" : "MTT",
+    "path" : "/Explore/project_deltest2",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000C0Z00000000013S"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ {
+        "id" : "8keceTczWLNcnkFQsAEZ6g",
+        "name" : "psvrlxfrs2001",
+        "type" : "AgentGroup",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C25000000000004"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : null,
+            "contentType" : "JSON",
+            "documentState" : "VALID"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "i885XV7MLm2hvkLQ46t60N",
+        "name" : "SK_Con_FF_Auto",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C0B000000000007"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "Flat File connection for CMD Sorter Automation",
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "8uEi0CDHnEek4EghBEFWa4",
+        "name" : "m_joiner_few_ports_name_common",
+        "type" : "DTEMPLATE",
+        "path" : "/Explore/project_deltest2",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "01000C170000000000BQ"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "cmd_joiner_tc038",
+            "contentType" : null,
+            "documentState" : "VALID"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      } ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
