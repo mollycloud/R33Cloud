@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "aK5P8dWZShNeMpaxIdBeoa",
+    "name" : "Mapping38",
+    "type" : "DTEMPLATE",
+    "path" : "/Explore/project33",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000C170000000000BY"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
