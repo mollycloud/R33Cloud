@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "4vt9Bth9aH6e0QyCCeuNm8",
+    "name" : "F1",
+    "type" : "Folder",
+    "path" : "/Explore/projectdeltest3",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "json"
+  }
+}
