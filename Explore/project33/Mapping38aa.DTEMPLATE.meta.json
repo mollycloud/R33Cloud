@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "aK5P8dWZShNeMpaxIdBeoa",
-    "name" : "Mapping38",
+    "name" : "Mapping38aa",
     "type" : "DTEMPLATE",
     "path" : "/Explore/project33",
     "metadata" : {
@@ -17,7 +17,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "aa",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       },
