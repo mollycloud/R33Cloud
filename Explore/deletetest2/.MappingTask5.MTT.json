@@ -18,7 +18,7 @@
       "additionalInfo" : {
         "description" : "aa",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "OUTDATED"
       }
     }
   },
@@ -41,7 +41,8 @@
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
-    }
+    },
+    "path" : "/SYS"
   }, {
     "id" : "aMHCkk4pV4eehTDwK665wT",
     "name" : "SK_Con_Oracle",
@@ -60,7 +61,8 @@
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
-    }
+    },
+    "path" : "/SYS"
   }, {
     "id" : "3bed8p78hNwgdgZdjZvK8C",
     "name" : "SK_Con_FF_Auto",
@@ -79,7 +81,8 @@
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
-    }
+    },
+    "path" : "/SYS"
   }, {
     "id" : "9RZB8f7Chg7guPGijkPjKF",
     "name" : "Mapping15",
@@ -98,6 +101,7 @@
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
-    }
+    },
+    "path" : "/Explore/deletetest2"
   } ]
 }
