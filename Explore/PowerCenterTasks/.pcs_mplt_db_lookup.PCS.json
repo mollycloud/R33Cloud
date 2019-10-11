@@ -41,7 +41,8 @@
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
-    }
+    },
+    "path" : "/SYS"
   }, {
     "id" : "59otHe6nOUNf9skLOl6qsD",
     "name" : "SK_Con_MySQL",
@@ -60,7 +61,8 @@
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
-    }
+    },
+    "path" : "/SYS"
   }, {
     "id" : "aMHCkk4pV4eehTDwK665wT",
     "name" : "SK_Con_Oracle",
@@ -79,7 +81,8 @@
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
-    }
+    },
+    "path" : "/SYS"
   }, {
     "id" : "a1d0eHmRhoGeoEcq023fq1",
     "name" : "SK_Con_SQLServer",
@@ -98,6 +101,7 @@
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
-    }
+    },
+    "path" : "/SYS"
   } ]
 }

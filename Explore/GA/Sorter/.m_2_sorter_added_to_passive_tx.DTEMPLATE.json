@@ -41,7 +41,8 @@
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
-    }
+    },
+    "path" : "/SYS"
   }, {
     "id" : "3bed8p78hNwgdgZdjZvK8C",
     "name" : "SK_Con_FF_Auto",
@@ -60,6 +61,7 @@
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
-    }
+    },
+    "path" : "/SYS"
   } ]
 }

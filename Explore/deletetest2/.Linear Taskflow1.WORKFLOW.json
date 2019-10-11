@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "aSwW9YSeHkHbFhMbNYVVYZ",
+    "name" : "Linear Taskflow1",
+    "type" : "WORKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100060N000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "7FGv03p5WuuidCxR0tBSAT",
+    "name" : "MappingTask5",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100060Z00000000001R"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "aa",
+        "contentType" : "JSON",
+        "documentState" : "OUTDATED"
+      }
+    },
+    "path" : "/Explore/deletetest2"
+  } ]
+}
