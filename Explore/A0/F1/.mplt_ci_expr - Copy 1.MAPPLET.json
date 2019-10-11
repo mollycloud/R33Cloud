@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "7Iqer0yLbKGfkjhkpPVi2I",
+    "name" : "mplt_ci_expr - Copy 1",
+    "type" : "MAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100060L00000000000V"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
